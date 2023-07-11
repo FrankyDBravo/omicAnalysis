@@ -57,7 +57,7 @@ Since the data are already RMA-normalized mRNA expression data, we simply apply 
 Then we compute the DEG (differentially expressed genes) by computing the fold change of the control group vs drug group. We also compute the statistical significance of that change using a t-test. There is some high variability across the different cell lines leading to non conclusive t-tests. 
 We can however use a more appropriate method: the [[limma model]]. It leads to more interpretable results: 
 
-![[Pasted image 20230511095819.png]]
+![](Pasted image 20230511095819.png)
 
 The gene signature of those significantly expressed genes is not particularly explicit. Looking at the most important  Gene sets of Humans (KEGG_2021_Human) we find a strong matching for the following gene sets:
 ![[Pasted image 20230511100011.png]]
