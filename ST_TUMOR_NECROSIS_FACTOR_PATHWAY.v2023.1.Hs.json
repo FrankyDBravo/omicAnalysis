@@ -1,0 +1,3 @@
+{
+  "ST_TUMOR_NECROSIS_FACTOR_PATHWAY" : {"systematicName":"M18030","pmid":"","exactSource":"CMP_7107","geneSymbols":["AGFG1","BAG4","BIRC2","BIRC3","CASP3","CASP8","CFLAR","FADD","IKBKG","JUN","MAP2K4","MAP3K3","MAP3K7","NFKB1","NFKB2","NFKBIA","NFKBIB","NFKBIE","NFKBIL1","NR2C2","RALBP1","RIPK1","TNF","TNFAIP3","TNFRSF1A","TNFRSF1B","TONSL","TRADD","TRAF2"],"msigdbURL":"https://www.gsea-msigdb.org/gsea/msigdb/human/geneset/ST_TUMOR_NECROSIS_FACTOR_PATHWAY","externalDetailsURL":[],"filteredBySimilarity":[],"externalNamesForSimilarTerms":[],"collection":"ARCHIVED:C2_CP"}
+}
