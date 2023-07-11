@@ -60,17 +60,17 @@ We can however use a more appropriate method: the [[limma model]]. It leads to m
 ![Volcano plot](20230511095819.png)
 
 The gene signature of those significantly expressed genes is not particularly explicit. Looking at the most important  Gene sets of Humans (KEGG_2021_Human) we find a strong matching for the following gene sets:
-![[Pasted image 20230511100011.png]]
+![geneSetRaw](20230511100011.png)
 
 which is not particularly relevant to our case.
 
 However there are some genes that have consistent increase over the 5 cell lines and have lower p values. We analyse those genes and saw the follow: 
 
-![[Pasted image 20230510140950.png]]
-![[Pasted image 20230510141056.png]]
+![top20genesL](20230510140950.png)
+![top20genesH](20230510141056.png)
 
 We see that we have less consistency on the positive change across cell lines. Taking the first 50 genes both negative an positive change and comparing them to the KEGG_2021_Human:
-![[Pasted image 20230511100055.png]]
+![geneSet](20230511100055.png)
  which seems to be more relevant to our context of breast cancer.
 
 
